@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e610517a43b3364db6ee0124a4bd68e, type: 3}
+  m_Name: First Hint
+  m_EditorClassIdentifier: 
+  whichItem: 1
+  isUsed: 1
+  ID: 0
+  itemName: Hint
+  descritpion: 
+  Image: {fileID: 0}
+  gameObjectPrefab: {fileID: 4513671587837932560, guid: 08f8bd7ff7d62a847869ce9979b7a960, type: 3}
+  hintContent: Whats this place?? Am i dreaming...
